@@ -7,8 +7,6 @@ For those who may be new to this area, *multimodal machine learning* studies how
 To gain a foundational understanding of multimodal ML, I highly recommend the survey:  
 **“A Comprehensive Survey of Multimodal Machine Learning”** — https://arxiv.org/pdf/1705.09406
 
----
-
 ### Experience
 
 In the **multimodal & deep learning** realm, I have experience with image–text fusion models, VLMs (e.g., CLIP-style architectures), multimodal transformers, and generative models for synthetic data.
@@ -18,7 +16,5 @@ In the **medical imaging** realm, I work on radiology-focused multimodal classif
 In the **healthcare time-series** realm, I study physiological signals, analyze raw vs. decomposed representations, and develop forecasting models for clinical and human-performance applications.
 
 In the **engineering & programming** realm, I work extensively with Python, PyTorch, TensorFlow/Keras, NumPy, and scientific computing tools.
-
----
 
 You can reach me at **muntaqimahmed@gmail.com**
